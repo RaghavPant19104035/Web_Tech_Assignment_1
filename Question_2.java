@@ -6,7 +6,7 @@ public class Question_2 {
 	public static void multiplyTwoFloatingPoints(double num1, double num2) {
 		double multiplication = num1 * num2;
 		
-		System.out.println("Multiplication of two floatingpoints : " + multiplication);
+		System.out.println("Multiplication of two floating points : " + multiplication);
 	}
 
 	public static void main(String[] args) {
